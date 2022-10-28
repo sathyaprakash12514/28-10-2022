@@ -1,0 +1,7 @@
+Helloworld servet example with corresponding dockerfile
+use maven build first to create war file in target folder
+mvn cleaern package
+docker build -t mavenbuild.
+once this is done u wil be see image using docker images
+use below command to run the container
+docker is one of the loveable person for the sathya prakash
